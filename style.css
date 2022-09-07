@@ -68,7 +68,7 @@ h3 {
   border-radius: 5px;
   height: 100%;
   /* change this to show progress */
-  width: 66%;
+  width: 0%;
   transition: width 0.1s linear;
 }
 
@@ -82,7 +82,7 @@ h3 {
 /* Controls */
 .player-controls {
   position: relative;
-  top: 15px;
+  top: 20px;
   left: 115px;
   width: 200px;
 }
